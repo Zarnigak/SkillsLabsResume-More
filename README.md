@@ -24,3 +24,4 @@ And to conclude, it reviews the importance of the CIA triad, the ever-present ro
 ## Cyber Security 101
 
 # Projects
+I am working on a SOC project involving a SIEM tool such as Wazuh, Wireshark and attack frameworks outlined in MITRE ATT&CK, where I am setting up a monitoring server using Wazuh, studying normal behaviour on my personal network and analysing anomalous behaviour such as brute-force attacks or data theft from a virtual machine. In the future, I will create a website to analyse the behaviour of a session hijacking and privilege escalation attack.
